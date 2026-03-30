@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sat-md-bot
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
