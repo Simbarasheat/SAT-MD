@@ -1,0 +1,32 @@
+SAT-MD-BOT/
+│
+├── commands/
+│   ├── core/
+│   │   ├── menu.js
+│   │   ├── ping.js
+│   │   └── alive.js
+│   │
+│   ├── ai/
+│   │   ├── gpt.js
+│   │   └── voiceListen.js
+│   │
+│   ├── downloads/
+│   │   └── play.js
+│   │
+│   ├── group/
+│   │   └── protect.js
+│   │
+│   └── education/
+│       ├── pastpaper.js
+│       ├── textbook.js
+│       ├── research.js
+│       ├── quiz.js
+│       ├── notes.js
+│       ├── exam.js
+│       └── voice.js
+│
+├── auth.json   (auto created)
+├── index.js
+├── handler.js
+├── config.js
+├── package.json
